@@ -1,7 +1,6 @@
-# codex_GPT
-A ChatGPT clone made using Vite, React, HTML, CSS, Javascript, Nodejs integrating with the OpenAI API
-Engine Warvil
-TALK AI is an intelligent chatbot powered by OpenAI. It is designed to provide helpful and insightful answers to your questions. Warvil can learn from its conversations with you, allowing it to become increasingly efficient and knowledgeable over time.
+# TALK_ai
+A,* ChatGPT clone made using Vite, React, HTML, CSS, Javascript, Nodejs integrating with the OpenAI API
+*TALK AI is an intelligent chatbot powered by OpenAI. It is designed to provide helpful and insightful answers to your questions. Warvil can learn from its conversations with you, allowing it to become increasingly efficient and knowledgeable over time.
 
 
 
@@ -40,13 +39,13 @@ Access the Application
 You can now access the Engine Warvil application by visiting http://localhost:3000 in your web browser.
 
 Key Features--
- Answer Basic Questions
- Generate Code 
- Generate Thesis Titles
- Correct Grammar
- Paraphrase Text
- Summarize
- Translate to Other Languages
- Explain Programming Code
- Evaluate Mathematical Expressions
- Create Study Notes
+ Answer Basic Questions,
+ Generate Code ,
+ Generate Thesis Titles,
+ Correct Grammar,
+ Paraphrase Text,
+ Summarize,
+ Translate to Other Languages,
+ Explain Programming Code,
+ Evaluate Mathematical Expressions,
+ Create Study Notes.
